@@ -1,0 +1,111 @@
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Manager.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewUser.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Pharmacist.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Receptionist.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AddAppointment.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AddEmployee.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_BloodBank.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_DoctorSchedule.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_EmployeeDetails.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Item.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_NewWard.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientreg.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientinfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Checkout.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Reports.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Roominfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Schedule.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_StaffInfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_UserInfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\mscorlib.dll
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\normidna.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\normnfc.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\normnfd.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\normnfkc.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\bin\Debug\normnfkd.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\AUST\AUST 3.2\SD Lab\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\mscorlib.dll
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\normidna.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\normnfc.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\normnfd.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\normnfkc.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\bin\Debug\normnfkd.nlp
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ChangePassword.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Manager.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Employee.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewUser.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Pharmacist.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Receptionist.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AddAppointment.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AddEmployee.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_BloodBank.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_DoctorSchedule.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_EmployeeDetails.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Item.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_NewWard.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientreg.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientinfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Checkout.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Reports.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Roominfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Schedule.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_StaffInfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_UserInfo.resources
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+D:\AUST\AUST 3.2\SD Lab\Hospital Management\v5\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\bin\Debug\MySql.Data.dll
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\bin\Debug\MySql.Data.xml
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Admin.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ChangePassword.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Manager.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewEmployee.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewSalary.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewSchedule.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewTime.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NewUser.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Pharmacist.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Receptionist.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateEmployee.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateSchedule.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateTime.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AddAppointment.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_AppointmentShow.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_BloodBank.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_DoctorSchedule.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Salary.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Item.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_NewWard.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientreg.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Patientinfo.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Checkout.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Reports.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Roominfo.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_Schedule.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_StaffInfo.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UserControl_UserInfo.resources
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\eshra\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
